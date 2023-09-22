@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejemplo Radios y Checks</string>
+    <string name="chkCheckBox1">Soy un checkbox</string>
+    <string name="tvPregunta">¿Te gusta programar?</string>
+    <string name="rbOpcion1">Si</string>
+    <string name="rbOpcion2">No</string>
+    <string name="btnAceptar">Aceptar</string>
+</resources>
